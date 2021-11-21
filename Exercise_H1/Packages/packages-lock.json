@@ -83,7 +83,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.cinemachine": {
-      "version": "2.7.8",
+      "version": "2.7.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -145,7 +145,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.4",
+      "version": "3.0.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
